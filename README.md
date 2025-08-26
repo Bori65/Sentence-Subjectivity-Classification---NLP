@@ -1,4 +1,4 @@
-##Multilingual Text Classification with Transformers
+## Multilingual Text Classification with Transformers
 
 This project implements multilingual text classification using [HuggingFace Transformers](https://huggingface.co/transformers/).  
 It supports training and testing on datasets in multiple languages (English, German, Italian, Arabic, Bulgarian).  
