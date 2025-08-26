@@ -9,4 +9,4 @@ Both **baseline** and **optimized** training setups are provided.
 ---
 
 ## Dataset
-Used dataset from [CheckThat! Lab CLEF 2025 Task 1]{https://gitlab.com/checkthat_lab/clef2025-checkthat-lab/-/tree/main/task1/data}.
+Used dataset from [CheckThat! Lab CLEF 2025 Task 1](https://gitlab.com/checkthat_lab/clef2025-checkthat-lab/-/tree/main/task1/data).
