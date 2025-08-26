@@ -3,7 +3,7 @@
 This project implements multilingual text classification using [HuggingFace Transformers](https://huggingface.co/transformers/).  
 It supports training and testing on datasets in multiple languages (English, German, Italian, Arabic, Bulgarian).  
 
-The model used is **DistilBERT (multilingual, cased)**, trained for subject/object classification.  
+The model used is **DistilBERT (multilingual, cased)**, trained to classify sentences as subjective or objective..  
 Both **baseline** and **optimized** training setups are provided.  
 
 ---
